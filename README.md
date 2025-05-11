@@ -33,11 +33,15 @@ npm start
 
 Make sure MongoDB is running locally (`mongodb://localhost:27017/gym-app`).
 
+---
+
 ### 📸 Screenshots
 
-| Home Page | After Adding Workout | Editing Workout |
-|-----------|----------------------|-----------------|
-| ![Home](./gym-app/screenshots_gym_app/home_page.png) | ![Add](./gym-app/screenshots_gym_app/after_adding_workouts.png) | ![Edit](./gym-app/screenshots_gym_app/editing_workout.png) |
+#### 🏋️ After Adding a Workout
+![Add](./gym-app/screenshots_gym_app/after_adding_workouts.png)
+
+#### ✏️ Editing a Workout
+![Edit](./gym-app/screenshots_gym_app/editing_workout.png)
 
 ---
 
