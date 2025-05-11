@@ -1,0 +1,68 @@
+{
+    "months": [
+        {
+            "name": "January",
+            "datasets": [
+                {"name": "Dataset1", "data": [30, 45, 60, 75, 55, 63, 42]},
+                {"name": "Dataset2", "data": [50, 40, 70, 80, 17, 12, 18]},
+                {"name": "Dataset3", "data": [20, 35, 55, 65, 1, 6, 7]},
+                {"name": "Dataset4", "data": [18, 12, 17, 80, 70, 40, 50]}
+            ]
+        },
+        {
+            "name": "February",
+            "datasets": [
+                {"name": "Dataset1", "data": [25, 35, 45, 55, 30, 47, 85]},
+                {"name": "Dataset2", "data": [65, 75, 85, 95, 46, 54, 78]},
+                {"name": "Dataset3", "data": [15, 25, 35, 45, 56, 58, 95]},
+                {"name": "Dataset4", "data": [43, 85, 17, 80, 40, 12, 45]}
+            ]
+        },
+        {
+            "name": "March",
+            "datasets": [
+                {"name": "Dataset1", "data": [65, 75, 85, 95, 46, 54, 78]},
+                {"name": "Dataset2", "data": [60, 70, 80, 90, 16, 99, 100]},
+                {"name": "Dataset3", "data": [10, 20, 30, 40, 59, 65, 69]},
+                {"name": "Dataset4", "data": [18, 12, 17, 80, 70, 40, 50]}
+            ]
+        },
+        {
+            "name": "April",
+            "datasets": [
+                {"name": "Dataset1", "data": [35, 45, 55, 65, 41, 44, 35]},
+                {"name": "Dataset2", "data": [45, 55, 65, 75, 33, 21, 11]},
+                {"name": "Dataset3", "data": [25, 35, 45, 55, 77, 21, 77]},
+                {"name": "Dataset4", "data": [13, 14, 15, 16, 17, 18, 19]}
+            ]
+        },
+        {
+            "name": "May",
+            "datasets": [
+                {"name": "Dataset1", "data": [40, 50, 60, 70, 71, 72, 73]},
+                {"name": "Dataset2", "data": [50, 60, 70, 80, 88, 89, 90]},
+                {"name": "Dataset3", "data": [30, 40, 50, 60, 68, 69, 70]},
+                {"name": "Dataset4", "data": [20, 21, 22, 23, 24, 25, 26]}
+            ]
+        },
+        {
+            "name": "June",
+            "datasets": [
+                {"name": "Dataset1", "data": [45, 55, 65, 75, 85, 95, 105]},
+                {"name": "Dataset2", "data": [55, 65, 75, 85, 75, 65, 60]},
+                {"name": "Dataset3", "data": [35, 45, 55, 65, 44, 43, 42]},
+                {"name": "Dataset4", "data": [11, 22, 33, 44, 55, 66, 77]}
+            ]
+        },
+        {
+            "name": "July",
+            "datasets": [
+                {"name": "Dataset1", "data": [50, 60, 70, 80, 52, 55, 90]},
+                {"name": "Dataset2", "data": [60, 70, 80, 90, 99, 95, 63]},
+                {"name": "Dataset3", "data": [40, 50, 60, 70, 33, 35, 36]},
+                {"name": "Dataset4", "data": [50, 60, 40, 30, 20, 11, 19]}
+            ]
+        }
+    ]
+}
+

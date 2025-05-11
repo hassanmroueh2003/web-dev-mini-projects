@@ -1,0 +1,47 @@
+{
+    "shoppingList": {
+      "groceries": [
+        {
+          "item": "Apples",
+          "quantity": 3,
+          "unit": "lbs"
+        },
+        {
+            "item": "Grapes",
+            "quantity": 2,
+            "unit": "lbs"
+          },
+
+        {
+          "item": "Bread",
+          "quantity": 2,
+          "unit": "loaves"
+        },
+        {
+          "item": "Milk",
+          "quantity": 1,
+          "unit": "gallon"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 1,
+          "unit": "dozen"
+        },
+        {
+          "item": "Chicken",
+          "quantity": 2,
+          "unit": "lbs"
+        },
+        {
+            "item": "Meat",
+            "quantity": 1,
+            "unit": "lbs"
+        },
+        {
+            "item": "Tomato",
+            "quantity": 2,
+            "unit": "lbs"
+        }
+      ]
+    }
+}
