@@ -78,6 +78,6 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Hassan Mroueh**  
-Master’s in Cognitive Systems – TU Dortmund University  
+**Hassan Mroueh**
+Master’s Student in Automation & Robotics – TU Dortmund
 This repository was created as part of self-driven experimentation to better understand web technologies in a hands-on way.
